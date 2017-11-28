@@ -1,0 +1,20 @@
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.csprojResolveAssemblyReference.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.csproj.CoreCompileInputs.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\bin\Debug\EMMS.Log.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.csprojResolveAssemblyReference.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.csproj.CoreCompileInputs.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Log\obj\Debug\EMMS.Log.pdb

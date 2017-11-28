@@ -1,0 +1,21 @@
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.csprojResolveAssemblyReference.cache
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess.Interface\obj\Release\EMMS.DataAccess.Interface.pdb

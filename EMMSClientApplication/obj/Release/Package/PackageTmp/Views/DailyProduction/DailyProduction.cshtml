@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/Shared/Daily Production/dailyProduction.js"></script>
+<br />
+<div id="page-wrapper">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#consumptionCollapseMenu">
+                    Daily Production
+                </a>
+            </h4>
+        </div>
+        <div id="consumptionCollapseMenu" class="panel-body">
+            <div class="form-group">
+                <label for="date" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">Select Date</label>
+                <div class="col-sm-4 ">
+                    <input type="text" class="form-control" id="idDate" readonly style="background-color:#ffffff">
+                </div>
+                <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                    <input type="button" name="Get Details" value="Fetch Details" id="idBudgetedYearConsumptionFetchDetails" class="btn btn-info" onclick="loadProductionGrid()" />
+                </div>
+            </div>
+            <script type="text/javascript">
+            // When the document is ready
+            $(document).ready(function () {
+                $('#idDate').datepicker({
+                    format: "dd/mm/yyyy"
+                });
+            });
+            </script><br /><br />
+            <div class="panel panel-primary">
+                <div class="panel-body">
+                    <table class="table" id="DailyProductionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-search="true"
+                           data-mobile-responsive="true"></table> <br />
+                    <div class="form-group">
+                        <label for="solidwaste" class="col-sm-1 col-xs-1  col-lg-1  col-md-2 control-label inlineCSS">Solid Waste</label>
+                        <div class="col-sm-4 ">
+                            <input type="text" class="form-control" id="idSolidWaste" onkeypress="return isNumber(event)" value="0">
+                        </div>
+                        <div class="col-sm-2">
+                            <input type="button" name="Save Details" value="Save Details" id="idMonthlyConsumptionSaveDetails" class="btn btn-success" onclick="saveDetails()" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('#DailyProductionTable').bootstrapTable({
+        pagination: 'true',
+        columns: [
+                    { field: 'AssetId', title: 'AssetId', align: 'left' },
+                    { field: 'DepartName', title: 'Department', align: 'left' },
+                    { field: 'Total', title: 'Total', sortable: true, align: 'center', editable: true },
+                    { field: 'UOM', title: 'UOM', sortable: true, align: 'center' },
+                    { field: 'UOMId', title: 'UOM ID', sortable: true, align: 'center' }
+        ]
+    });
+    $('#DailyProductionTable').bootstrapTable("hideColumn", "AssetId");
+    $('#DailyProductionTable').bootstrapTable("hideColumn", "UOMId");
+</script>
+
+

@@ -1,0 +1,73 @@
+﻿@model EMMS.DTO.Assets
+<script src="~/Scripts/Shared/HomePage/homePage.js"></script>
+<input type="hidden" id="year" value=@DateTime.UtcNow.Year>
+<div id="page-wrapper">
+     <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="baseYearDiv" href="#baseYearMenu">
+                    Base Year
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <span class="logo-lg">
+                @*Base Year is:<b> @HttpContext.Current.Session["BaseYear"]</b>*@
+                Base Year :<b> <span id="txtBaseYear"></span></b>
+            </span>
+        </div>
+    </div>
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="currencyDiv" href="#CurrencyMenu">
+                    Plant Currency
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <span class="logo-lg">
+                Plant Currency :<b> <span id="txtCurrency"></span></b>
+            </span>
+        </div>
+    </div>
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="exchangerateDiv" href="#exchangeMenu">
+                    USD Exchange Rate
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <span class="logo-lg">
+                USD Exchange Rate :<b> <span id="txtExchangeRate"></span></b>
+            </span>
+        </div>
+    </div>
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="alarmsDiv" href="#alarmsMenu">
+                    Alarms
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <table class="table" id="idAlarmTable" data-page-size="5" data-search="true" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+        </div>
+    </div>
+</div>
+<script>
+    $("#idAlarmTable").bootstrapTable({
+        pagination: 'true',
+        columns: [
+                    { field: 'TagName', title: 'Tag Name', sortable: true, align: 'left' },
+                    { field: 'AssetName', title: 'Asset Name', sortable: true, align: 'left' },
+                    { field: 'isEnabled', title: 'Is Enable', sortable: true, align: 'left' },
+                    { field: 'Target', title: 'Target', sortable: true, align: 'left' }
+        ]
+    });
+    loadData();
+</script>

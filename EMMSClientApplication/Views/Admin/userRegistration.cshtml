@@ -1,0 +1,36 @@
+﻿<script src="~/Scripts/Shared/Admin/UserRegistration/userRegistration.js"></script>
+<div id="page-wrapper">
+    <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="accordian-toggle" data-toggle="collapse" data-parent="#accordian" href="userMappingDiv">
+                    User Registration
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <label for="UserName">Email</label>
+                <input type="text" name="UserName" class="form-control" id="idUserName">
+            </div>
+            <div class="form-group">
+                <label for="isAdmin">Role</label>
+                <select class="form-control dummy" id="idAdminSelect">
+                    <option value="0">Select Role</option>
+                    <option value="1">Plant</option>
+                    <option value="2">Admin</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="button" name="Save Details" value="Save Details" id="saveDetails" class="btn btn-success" onclick="saveUsers()" />
+            </div>
+            <div class="form-group">
+                <table class="table" id="idUserTable" data-search="true" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    loadUserTable();
+</script>

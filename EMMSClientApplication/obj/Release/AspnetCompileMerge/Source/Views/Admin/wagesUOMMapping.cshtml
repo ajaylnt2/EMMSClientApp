@@ -1,0 +1,53 @@
+﻿<script src="~/Scripts/Shared/Admin/WagesUOMMapping/wagesUOMapping.js"></script>
+<div id="page-wrapper">
+    <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapping">
+                    Wages - UOM Mapping
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <!-- mapping Div Starts-->
+            <div id="mapping" class="tab-pane fade in fade">
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <label for="UOM" class="col-sm-2 control-label">UOM </label>
+                            <div class="col-sm-2 ">
+                                <select class="form-control dummy" id="uomSelect">
+                                    <option value="0">Select UOM</option>
+                                </select>
+                            </div>
+                            <label for="wages" class="col-sm-2 control-label">Wages </label>
+                            <div class="col-sm-2 ">
+                                <select class="form-control dummy" id="uomSelect">
+                                    <option value="0">Select Wages</option>
+                                    <option value="1">Water</option>
+                                    <option value="2">Air</option>
+                                    <option value="3">Gas</option>
+                                    <option value="4">Electricity</option>
+                                    <option value="5">Steam</option>
+                                </select>
+                            </div>
+                            <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                                <input type="button" name="Save Details" value="Save Details" id="idUOMSave" class="btn btn-info" onclick="saveUOMEnergyMapping()" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <table class="table" id="idMappingTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                    </div>
+                </div>
+            </div>
+            <!-- mapping Div ends-->
+        </div>
+    </div>
+</div>
+<script>
+    loadGrid();
+</script>

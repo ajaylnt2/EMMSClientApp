@@ -1,0 +1,46 @@
+﻿<script src="~/Scripts/Shared/Admin/UserPlantMapping/userPlantMapping.js"></script>
+<div id="page-wrapper">
+     <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mappingCollapseMenu">
+                    User Mapping
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <div class="panel panel-primary">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label for="adminSelect">Email</label>
+                        <input type="text" name="email" class="form-control" id="idEmail">
+                    </div>
+                    <div class="form-group">
+                        <div class="checkbox">
+                            <label><input type="checkbox" id="adminCheck"><b>Admin</b></label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="plantSelect">Plant Name</label>
+                        <select class="js-example-basic-multiple form-control" id="idMultiSelect" multiple="multiple">
+                        </select>
+                    </div>
+                    <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                        <input type="button" name="Save Details" value="Save Details" id="saveDetails" class="btn btn-success" onclick="saveDetails()" />
+                    </div>
+                    <br /><br />
+                    <div class="form-group">
+                        <table class="table" id="idPlantTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(".js-example-basic-multiple").select2();
+    getPlantNames();
+    loadPlantTable();
+</script>
+

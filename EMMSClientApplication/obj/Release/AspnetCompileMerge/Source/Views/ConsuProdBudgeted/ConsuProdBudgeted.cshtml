@@ -1,0 +1,372 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/Shared/PlantSetup/Budgeted/ConsumptionBudgeted.js"></script>
+
+<!-- Main Div Starts Here-->
+<div id="page-wrapper">
+    <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle">
+                    Budgeted Details
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <div class="container-fluid">
+                <div class="col-lg-12">
+                    <!-- Year Section Starts-->
+                    <div class="panel panel-primary">
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <label for="year" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">Year</label>
+                                <div class="col-sm-4 ">
+                                    <input id="budgetedConsumptionYear" type="text" class="form-control" value=@DateTime.UtcNow.Year onkeypress="return isNumber(event)">
+                                </div>
+                                <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                                    <input type="button" name="Get Details" value="Fetch Details" id="idbudgetedConsumptionFetchDetails" class="btn btn-info" onclick="fetchDetails()" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Year Section Ends-->
+
+                    <div class="panel panel-primary">
+                        <div class="panel-body">
+                            <br />
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+                                    <label for="usdExchangeRate" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">USD Exchange Rate</label>
+                                    <div class="col-sm-4 ">
+                                        <input id="usdExchangeRate" type="number" class="form-control" value="" onkeypress="return isNumber(event)" min="0"/>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <input type="button" name="Save" value="Save Exchange Rate" id="idSaveUSDrate" class="btn btn-success" onclick="saveUSDRate()" />
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <ul class="nav nav-tabs">
+                                <li id="water" class="active"><a data-toggle="tab" href="#waterTab" onclick="loadBudgetedGrids(1)">Water</a></li>
+                                <li id="air"><a data-toggle="tab" href="#airTab" onclick="loadBudgetedGrids(2)">Air</a></li>
+                                <li id="gas"><a data-toggle="tab" href="#gasTab" onclick="loadBudgetedGrids(3)">Gas</a></li>
+                                <li id="electricity"><a data-toggle="tab" href="#electricityTab" onclick="loadBudgetedGrids(4)">Electricity</a></li>
+                                <li id="steam"><a data-toggle="tab" href="#steamTab" onclick="loadBudgetedGrids(5)">Steam</a></li>
+                                <li id="production"><a data-toggle="tab" href="#productionTab" onclick="loadProduction()">Production</a></li>
+                                <li id="solidwaste"><a data-toggle="tab" href="#solidwasteTab" onclick="loadsolidWasteBudgetedGrid()">Solid Waste</a></li>
+                            </ul>
+                            <!--Tabs Panes Starts-->
+
+                            <div class="tab-content">
+                                <div id="waterTab" class="tab-pane fade in active">
+                                    <br />
+                                    <div class="panle panel-default">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="waterConsumptionDiv">
+                                                <!--Actual Water Consumption starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#consumptionCollapseMenu">
+                                                                Consumption
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="consumptionCollapseMenu" +@i class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedwaterConsumptionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Water Consumption ends here-->
+                                                <!--Actual Water Cost starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#costCollapseMenu">
+                                                                Cost
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="costCollapseMenu" +@i class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedwaterCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Water Cost starts here-->
+                                                <br />
+                                                <div class="col-xs-3">
+                                                    <input type="button" name="Save Details" value="Save Details" id="idWaterBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedDetails(1)" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="airTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="panle panel-default">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="airConsumptionDiv">
+                                                @*@Html.Partial("ActualAirConsumption")*@
+                                                <!--Actual Air Consumption starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#consumptionCollapseMenu">
+                                                                Consumption
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="consumptionCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedairConsumptionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Air Consumption ends here-->
+                                                <!--Actual Air Cost starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#costCollapseMenu">
+                                                                Cost
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="costCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedairCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Air Cost ends here-->
+                                                <br />
+                                                <div class="col-xs-3">
+                                                    <input type="button" name="Save Details" value="Save Details" id="idAirBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedDetails(2)" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="gasTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="panle panel-primary">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="gasConsumptionDiv">
+                                                @*@Html.Partial("ActualGasConsumption")*@
+                                                <!--Actual Gas Consumption starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#consumptionCollapseMenu">
+                                                                Consumption
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="consumptionCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedgasConsumptionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Gas Consumption ends here-->
+                                                <!--Actual Gas Cost starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#costCollapseMenu">
+                                                                Cost
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="costCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedgasCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Gas Cost ends here-->
+                                                <br />
+                                                <div class="col-xs-3">
+                                                    <input type="button" name="Save Details" value="Save Details" id="idGasBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedDetails(3)" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="electricityTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="panle panel-default">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="gasConsumptionDiv">
+                                                @*@Html.Partial("ActualElectricityConsumption")*@
+                                                <!--Actual Electricity Consumption starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#consumptionCollapseMenu">
+                                                                Consumption
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="consumptionCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedelectricityConsumptionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Electricity Consumption ends here-->
+                                                <!--Actual Electricity Cost starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#costCollapseMenu">
+                                                                Cost
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="costCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedelectricityCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Electricity Cost ends here-->
+                                                <br />
+                                                <div class="col-xs-3">
+                                                    <input type="button" name="Save Details" value="Save Details" id="idElectricityBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedDetails(4)" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="steamTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="panle panel-default">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="gasConsumptionDiv">
+                                                @*@Html.Partial("ActualSteamConsumption")*@
+                                                <!--Actual Steam Consumption starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#consumptionCollapseMenu">
+                                                                Consumption
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="consumptionCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedsteamConsumptionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Steam Consumption ends here-->
+                                                <!--Actual Steam Cost Starts here-->
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" id="wageTitle" href="#costCollapseMenu">
+                                                                Cost
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="costCollapseMenu" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+                                                            <table class="table" id="budgetedsteamCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!--Actual Steam Cost ends here-->
+                                                <br />
+                                                <div class="col-xs-3">
+                                                    <input type="button" name="Save Details" value="Save Details" id="idSteamBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedDetails(5)" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="productionTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="panle panel-default">
+                                        <div class="panel-body">
+                                            <div class="col-lg-12" id="productionDiv">
+                                                @*@Html.Partial("ActualProduction")*@
+                                                <div class="panel panel-primary">
+                                                    <div class="panel-heading" id="">
+                                                        <h4 class="panel-title">
+                                                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#costCollapseMenu">
+                                                                Production Details
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div class="panel-body">
+                                                        <table class="table" id="budgetedProductionTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <br />
+                                            <div class="col-xs-3">
+                                                <input type="button" name="Save Details" value="Save Details" id="idProductionBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedProduction()" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="solidwasteTab" class="tab-pane fade">
+                                    <br />
+                                    <div class="col-lg-12" id="solidwasteDiv">
+                                        <div class="col-lg-12" id="solidWasteDiv">
+                                            <div class="panel panel-primary">
+                                                <div class="panel-heading" id="">
+                                                    <h4 class="panel-title">
+                                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#costCollapseMenu">
+                                                            Solid Waste Total
+                                                        </a>
+                                                    </h4>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <table class="table" id="budgetedSolidWasteTotalTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12" id="solidWasteDiv">
+                                            <div class="panel panel-primary">
+                                                <div class="panel-heading" id="">
+                                                    <h4 class="panel-title">
+                                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#costCollapseMenu">
+                                                            Solid Waste Cost
+                                                        </a>
+                                                    </h4>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <table class="table" id="budgetedSolidWasteCostTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <br />
+                                        <div class="col-xs-3">
+                                            <input type="button" name="Save Details" value="Save Details" id="idSolidWasteBudgetedSaveDetails" class="btn btn-success" onclick="saveBudgetedSoildWate()" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Tabs Panes Ends-->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+</div>
+<script>
+    loadBudgetedGrids(1);
+    loadExchangeRate();
+</script>
+<!-- Main Div Ends Here-->

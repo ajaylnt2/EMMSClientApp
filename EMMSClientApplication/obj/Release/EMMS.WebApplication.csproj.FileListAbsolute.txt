@@ -1,0 +1,208 @@
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\ApplicationInsights.config
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\csc.exe
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\vbc.exe
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\VBCSCompiler.exe
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.dll.config
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Antlr3.Runtime.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Encryption.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Web.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Amqp.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.Shared.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Newtonsoft.Json.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Ninject.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Owin.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PCLCrypto.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.BCrypt.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Kernel32.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.NCrypt.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Windows.Core.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Net.Http.Formatting.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Helpers.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.Owin.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.WebHost.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Mvc.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Optimization.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Razor.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Razor.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Validation.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\WebGrease.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Encryption.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Web.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Amqp.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Newtonsoft.Json.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Ninject.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PCLCrypto.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.BCrypt.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Kernel32.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.NCrypt.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Windows.Core.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Net.Http.Formatting.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.Owin.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.WebHost.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Helpers.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Mvc.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Optimization.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Razor.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Razor.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Validation.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\Antlr3.Runtime.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMS.WebApplication.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMSClientApplication.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMSClientApplication.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\ApplicationInsights.config
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\csc.exe
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\vbc.exe
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\VBCSCompiler.exe
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.dll.config
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMSClientApplication.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Antlr3.Runtime.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Encryption.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Log.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Web.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Amqp.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.Shared.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Newtonsoft.Json.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Ninject.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Owin.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PCLCrypto.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.BCrypt.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Kernel32.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.NCrypt.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Windows.Core.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Net.Http.Formatting.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Helpers.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.Owin.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.WebHost.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Mvc.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Optimization.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Razor.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Razor.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Validation.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\WebGrease.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Business.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Encryption.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.Web.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Amqp.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Azure.Devices.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Newtonsoft.Json.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Ninject.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PCLCrypto.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.BCrypt.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Kernel32.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.NCrypt.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\PInvoke.Windows.Core.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Net.Http.Formatting.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.Owin.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Http.WebHost.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Helpers.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Mvc.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Optimization.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.Razor.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\System.Web.WebPages.Razor.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Validation.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\Antlr3.Runtime.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMS.WebApplication.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMSClientApplication.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\obj\Release\EMMSClientApplication.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\LnT.SSO.Saml2.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMSClientApplication\bin\LnT.SSO.Saml2.Mvc.dll

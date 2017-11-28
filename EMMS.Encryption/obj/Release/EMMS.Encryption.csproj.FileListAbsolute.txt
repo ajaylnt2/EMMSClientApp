@@ -1,0 +1,4 @@
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Encryption\bin\Release\EMMS.Encryption.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Encryption\bin\Release\EMMS.Encryption.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Encryption\obj\Release\EMMS.Encryption.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Encryption\obj\Release\EMMS.Encryption.pdb

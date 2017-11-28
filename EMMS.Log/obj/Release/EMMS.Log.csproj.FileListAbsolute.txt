@@ -1,0 +1,5 @@
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\bin\Release\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\bin\Release\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\obj\Release\EMMS.Log.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\obj\Release\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Log\obj\Release\EMMS.Log.pdb

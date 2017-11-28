@@ -1,0 +1,84 @@
+﻿<script src="~/Scripts/Shared/Admin/Configurations/adminConfigurations.js"></script>
+<div id="page-wrapper">
+    <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#configurations">
+                    Configurations
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <br />
+            <ul class="nav nav-tabs">
+                <li class="active"><a data-toggle="tab" href="#uom">UOM</a></li>
+                <li><a data-toggle="tab" href="#smtp" onclick="loadEmailConfig()">SMTP Settings</a></li>
+            </ul>
+            <br />
+            <!-- tabbed pane body starts-->
+            <div class="tab-content">
+                <!-- UOM Div Starts-->
+                    <div id="uom" class="tab-pane fade in active">
+                        <div id="uom" class="tab-pane fade in active">
+                            <div class="panel panel-primary">
+                                <div class="panel-body">
+                                    <div class="form-group">
+                                        <label for="uom" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">UOM</label>
+                                        <div class="col-sm-2 ">
+                                            <input type="text" name="uom" class="form-control" id="idUOM">
+                                        </div>
+                                        <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                                            <input type="button" name="Save Details" value="Save Details" id="idUOMSave" class="btn btn-success" onclick="saveUOM()" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-primary">
+                                <div class="panel-body">
+                                    <table class="table" id="idUOMTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- UOM Div ends-->
+                <!-- smtp Div Starts-->
+                    <div id="smtp" class="tab-pane fade in fade">
+                        <div class="panel panel-primary">
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <label for="smtpServer" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">SMTP Server</label>
+                                    <div class="col-sm-4 ">
+                                        <input type="text" name="smtpServer" class="form-control" id="idSmtpServer">
+                                    </div>
+                                    <label for="smtpPort" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">SMTP Port</label>
+                                    <div class="col-sm-4 ">
+                                        <input type="text" name="smtpPort" class="form-control" id="idSmtpPort" onkeypress="return isNumber(event) ">
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label for="userName" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">Username</label>
+                                    <div class="col-sm-4 ">
+                                        <input type="text" name="userName" class="form-control" id="idUserName">
+                                    </div>
+                                    <label for="password" class="col-sm-1 col-xs-2  col-lg-2  col-md-2 control-label inlineCSS">Password</label>
+                                    <div class="col-sm-4 ">
+                                        <input type="password" name="password" class="form-control" id="idPassword">
+                                    </div>
+                                </div><br /><br />
+                                <div class="col-md-12 text-center">
+                                    <input type="button" name="Save Details" value="Save Details" id="idUOMSave" class="btn btn-success" onclick="saveEmailConfig()" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- smtp Div ends-->
+            </div>
+            <!-- tabbed pane body ends-->
+        </div>
+    </div>
+</div>
+<script>
+    loadUOMGrid();
+    loadEmailConfig();
+</script>

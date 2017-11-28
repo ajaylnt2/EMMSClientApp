@@ -1,0 +1,52 @@
+﻿<script src="~/Scripts/Shared/Admin/UserPlantMapping/userPlantMapping.js"></script>
+<div id="page-wrapper">
+     <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mappingCollapseMenu">
+                    User Plant Mapping
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <div class="panel panel-primary">
+                <div class="panel-body">
+                    <div class="input-bar">
+                         <div class="input-bar-item">
+                            <div class="form-group">
+                                <label for="isAdmin">Email</label>
+                                <select class="form-control col-lg-4 dummy" id="idUserSelect">
+                                    <option value="0">Select user</option>
+                                </select>
+                            </div>
+                         </div>
+                    </div>
+                    <div class="input-bar">
+                        <div class="input-bar-item">
+                            <div class="form-group">
+                                <label for="isAdmin">Plant Name</label>
+                                <select class="js-example-basic-multiple form-control" id="idMultiSelect" multiple="multiple"></select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-bar">
+                        <div class="input-bar-item">
+                            <div class="form-group">
+                                <input type="button" name="Save Details" value="Save Details" id="saveDetails" class="btn btn-success" onclick="saveDetails()" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-bar">
+                        <table class="table" id="idPlantTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(".js-example-basic-multiple").select2();
+    loadData();
+</script>
+

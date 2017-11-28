@@ -1,0 +1,48 @@
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Mvc.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Mvc.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Mvc.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Mvc.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.Razor.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Razor.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Release\EMMS.DTO.pdb

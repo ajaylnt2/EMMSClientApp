@@ -1,0 +1,75 @@
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.Mvc.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.Razor.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.Razor.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.Deployment.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.Mvc.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.Razor.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.Razor.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\bin\Debug\System.Web.WebPages.Deployment.xml
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Mvc.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Razor.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Mvc.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Razor.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Mvc.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.Razor.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csproj.CoreCompileInputs.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\bin\Debug\EMMS.DTO.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csprojResolveAssemblyReference.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.csproj.CoreCompileInputs.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DTO\obj\Debug\EMMS.DTO.pdb

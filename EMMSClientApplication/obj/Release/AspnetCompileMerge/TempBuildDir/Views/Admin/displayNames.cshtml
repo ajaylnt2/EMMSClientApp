@@ -1,0 +1,52 @@
+﻿<script src="~/Scripts/Shared/Admin/Display Names/displayNames.js"></script>
+<div id="page-wrapper">
+    <br />
+    <div class="panel panel-primary">
+        <div class="panel-heading" id="">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#configurations">
+                    Display Names
+                </a>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <br />
+            <!-- Display Names Starts here-->
+            <div id="displayNames" class="tab-pane fade in fade">
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <label for="wages" class="col-sm-2 control-label">Wages </label>
+                            <div class="col-sm-2 ">
+                                <select class="form-control dummy" id="idWgesSelect">
+                                    <option value="0">Select Wages</option>
+                                    <option value="1">Water</option>
+                                    <option value="2">Air</option>
+                                    <option value="3">Gas</option>
+                                    <option value="4">Electricity</option>
+                                    <option value="5">Steam</option>
+                                </select>
+                            </div>
+                            <label for="displayname" class="col-sm-2 control-label">Display Name </label>
+                            <div class="col-sm-2 ">
+                                <input type="text" name="displayName" class="form-control" id="idDisplayName">
+                            </div>
+                            <div class="col-sm-3 col-lg-4 col-xs-4 col-md-4 yearTextField">
+                                <input type="button" name="Save Details" value="Save Details" id="idSave" class="btn btn-info" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <table class="table" id="idDisplayTable" data-page-size="5" data-page-list="[5, 10, 25, 50, 100, ALL]" data-mobile-responsive="true"></table>
+                    </div>
+                </div>
+            </div>
+            <!-- Display Names Ends here-->
+        </div>
+    </div>
+</div>
+<script>
+    loadDisplayGrid();
+</script>

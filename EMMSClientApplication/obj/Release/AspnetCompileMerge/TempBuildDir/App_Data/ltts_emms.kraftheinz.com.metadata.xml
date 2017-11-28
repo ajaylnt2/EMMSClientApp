@@ -1,0 +1,21 @@
+<md:EntityDescriptor ID="TsqLzNiDq5yfl9ylmj4qS3tM.12" cacheDuration="PT1440M" entityID="KraftFoods:SAML20:IdP" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata">
+	<md:IDPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol" WantAuthnRequestsSigned="false">
+		<md:KeyDescriptor use="signing">
+			<ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+				<ds:X509Data>
+					<ds:X509Certificate>MIIDYjCCAkqgAwIBAgIGAV1TOIQ0MA0GCSqGSIb3DQEBBQUAMHIxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJJTDEQMA4GA1UEBxMHQ2hpY2FnbzEUMBIGA1UEChMLS3JhZnQgSGVpbnoxCzAJBgNVBAsTAklUMSEwHwYDVQQDDBhMVFRTX0VNTVMua3JhZnRoZWluei5jb20wHhcNMTcwNzE4MDEwMzE5WhcNMTcwOTAxMDEwMzE5WjByMQswCQYDVQQGEwJVUzELMAkGA1UECBMCSUwxEDAOBgNVBAcTB0NoaWNhZ28xFDASBgNVBAoTC0tyYWZ0IEhlaW56MQswCQYDVQQLEwJJVDEhMB8GA1UEAwwYTFRUU19FTU1TLmtyYWZ0aGVpbnouY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApa9iI5gja4VfQ5qV7YeVlM7abk95cXILeyIzrvFf7lKAWkEbVKSnjdtXO9DH8R3/YBxip9JBW1jxuvxi00KDTKMMmnEO3Z4GVJpJsgqcmMoUhPuYUgcLo8hY3sg3tRu95BfyUC9+/7do7YOFWy9Ir0e6RIC62SXTHdGEn7Z4pXYYP82Hctuk1XYe0B3kKXUwBYlX2HDbpoAgwncbKzi0KCeNIfKHhXLSFHl5EFy7xoPCR73X60sNL3ucJ29/QvNz4nCU6B0oQTbR90JY0k+N0a5nyK6GFm8arnAFbx7scOSdD9fhJ4HK2qbRr2d+IY0m/7mEtvVzpj/3oe3DJP2sNwIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQCUAg4hrZq4uKip1CqDzdV3u8ktFJ64cUpFOf74vcZZy3OGuAk3Bm06vIrjz33Kg+Lr1jTmA1RfVuHonQN3dyfqmUjT+fmCm2UUirp14aIo/0Qu0DJCxCptkC7H8lcXpER/VPRxzsXwYPlCcr51ecOvYJBtfYaFFc55J5Q7Gk0n7g3KUEWlH/OBFHkOeDlcK3IkRAQhVuUh/GBms/+Q7BgLwpjKDXdK4g3i7iHip3fQxymbx+81a2R72QdGD5qREpNx9qSZYRi3RQc0atF46YWCBxhfoexfrEpL3PebBYvDs957wm/U3lfcCDd7oYt1rNSyBt5GECw5G1OH/GR5xJ+2</ds:X509Certificate>
+				</ds:X509Data>
+			</ds:KeyInfo>
+		</md:KeyDescriptor>
+		<md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat>
+		<md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://accessdev.kraftfoods.com/fedsso/SSO.saml2"/>
+		<md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://accessdev.kraftfoods.com/fedsso/SSO.saml2"/>
+		<saml:Attribute Name="mail" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/>
+		<saml:Attribute Name="samAccountName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/>
+		<saml:Attribute Name="sn" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/>
+		<saml:Attribute Name="givenName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/>
+	</md:IDPSSODescriptor>
+	<md:ContactPerson contactType="administrative">
+		<md:Company>Kraft Foods [fedstage.kraftfoods.com]</md:Company>
+	</md:ContactPerson>
+</md:EntityDescriptor>

@@ -1,0 +1,65 @@
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csproj.CoreCompileInputs.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.Business.Interface.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Debug\EMMS.DTO.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.csproj.CoreCompileInputs.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Debug\EMMS.Business.Interface.pdb

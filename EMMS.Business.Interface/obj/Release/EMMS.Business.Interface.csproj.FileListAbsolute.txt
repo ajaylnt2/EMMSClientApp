@@ -1,0 +1,21 @@
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.Business.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\bin\Release\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.Business.Interface\obj\Release\EMMS.Business.Interface.pdb

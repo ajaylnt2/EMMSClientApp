@@ -1,0 +1,29 @@
+﻿ .webgrid-table {
+        width: 100%;
+       border-collapse: collapse;
+       display: table;
+       border:  1px solid #ddd;
+       background-color: white;
+    }
+
+     .webgrid-table td, th {  
+        border: 1px solid #ddd;  
+        padding: 3px 7px 2px;  
+    }
+     .webgrid_header{
+         background-color:rgb(230,230,230);
+         color:black;
+         padding-bottom: 4px;
+         padding-top: 5px;
+     }  
+
+     .webgrid_header>th>a{
+         color:black;
+         text-decoration:none;
+     }
+
+     .myBtn{
+         margin-top:5px !important;
+         margin-left:150px!important;
+         background-color:blue!important
+     }

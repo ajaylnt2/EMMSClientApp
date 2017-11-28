@@ -1,0 +1,287 @@
+﻿@using System.Configuration;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>EMMS Plant Configuration</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link href="~/AdminLTE/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/AdminLTE/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/AdminLTE/dist/css/admin-lte.min.css" rel="stylesheet" />
+    <link href="~/AdminLTE/dist/css/skins/_all-skins.min.css" rel="stylesheet" />
+    <link href="~/AdminLTE/bootstrap/css/bootstrap-table.css" rel="stylesheet" />
+    <link href="~/AdminLTE/css/custom.css" rel="stylesheet" />
+    <script src="~/AdminLTE/dist/js/jquery-1.11.3.min.js"></script>
+    <script src="~/AdminLTE/dist/js/bootstrap.min.js"></script>
+    <script src="~/AdminLTE/dist/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="~/AdminLTE/dist/js/ie8-responsive-file-warning.js"></script>
+    <script src="~/AdminLTE/dist/js/html5shiv.min.js"></script>
+    <link href="~/AdminLTE/css/bootstrap-table.css" rel="stylesheet" />
+    <script src="~/AdminLTE/dist/js/bootstrap-table.js"></script>
+    <script src="~/AdminLTE/dist/js/bootstrap-table-export.js"></script>
+    <script src="~/AdminLTE/dist/js/bootstrap-table-editable.js"></script>
+    <script src="~/AdminLTE/dist/js/bootstrap-datepicker.js"></script>
+    <link href="~/AdminLTE/bootstrap/css/datepicker.css" rel="stylesheet" />
+    <link href="~/AdminLTE/dist/css/select2.css" rel="stylesheet" />
+    <link href="~/AdminLTE/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="~/AdminLTE/dist/js/select2.full.min.js"></script>
+    <script src="~/AdminLTE/dist/js/select2.min.js"></script>
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+        <header class="main-header">
+            <a href="#" class="logo">
+                <span class="logo-mini"><b>EMMS</b></span>
+                <span class="logo-lg"><b>EMMS Configuration</b></span>
+            </a>
+            <nav class="navbar navbar-static-top" role="navigation">
+                <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only"></span>  
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+            </nav>
+
+        </header>
+        <aside class="main-sidebar">
+            <section class="sidebar">
+                <ul class="sidebar-menu">
+                    @{
+                        if (@HttpContext.Current.Session["RoleId"].ToString() != null && @HttpContext.Current.Session["PlantId"].ToString() != null)
+                        {
+                            if (@HttpContext.Current.Session["RoleId"].ToString() == "1" && @HttpContext.Current.Session["PlantId"].ToString() != "0")
+                            {
+                                <li>
+                                    <a href="@Url.Action("HomePage", "HomePage")"><i class="fa fa-share"></i> Home </a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Actual & Budgeted Details</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("ConsumptionActual", "PlantSetUp")"><i class="fa fa-circle-o"></i> Actual Details </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("ConsuProdBudgeted", "ConsuProdBudgeted")"><i class="fa fa-circle-o"></i> Budgeted Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("DailyProduction", "DailyProduction")"><i class="fa fa-share"></i> Daily Production</a>
+                                </li>
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Configurations</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("Configurations", "Configuration")"><i class="fa fa-circle-o"></i> UOM Mapping </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("AlarmEnabling", "AlarmEnabling")"><i class="fa fa-circle-o"></i> Alarm Settings</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("DashBoardSettings", "DashBoardSettings")"><i class="fa fa-circle-o"></i> Dashboard Settings</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            }
+                            if (@HttpContext.Current.Session["RoleId"].ToString() == "2" && @HttpContext.Current.Session["PlantId"].ToString() == "0")
+                            {
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Admin</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("adminConfiguration", "Admin")"><i class="fa fa-share"></i> Configuration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("MacIDReg", "Admin")"><i class="fa fa-share"></i> Device Registration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("userRegistration", "Admin")"><i class="fa fa-share"></i> User Registration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("UserPlantMapping", "Admin")"><i class="fa fa-share"></i> User - Plant Mapping </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            }
+                            if (@HttpContext.Current.Session["RoleId"].ToString() == "2" && @HttpContext.Current.Session["PlantId"].ToString() != "0")
+                            {
+                                <li id="HomeMenu">
+                                    <a href="@Url.Action("HomePage", "HomePage")"><i class="fa fa-share"></i> Home </a>
+                                </li>
+                                <li class="treeview" id="actualMenu">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Actual & Budgeted Details</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("ConsumptionActual", "PlantSetUp")"><i class="fa fa-circle-o"></i> Actual Details </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("ConsuProdBudgeted", "ConsuProdBudgeted")"><i class="fa fa-circle-o"></i> Budgeted Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li id="productionMenu">
+                                    <a href="@Url.Action("DailyProduction", "DailyProduction")"><i class="fa fa-share"></i> Daily Production</a>
+                                </li>
+                                <li class="treeview" id="configMenu">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Configurations</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("Configurations", "Configuration")"><i class="fa fa-circle-o"></i> UOM Mapping </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("AlarmEnabling", "AlarmEnabling")"><i class="fa fa-circle-o"></i> Alarm Settings</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("DashBoardSettings", "DashBoardSettings")"><i class="fa fa-circle-o"></i> Dashboard Settings</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="treeview" id="adminConfigMenu">
+                                    <a href="#">
+                                        <i class="fa fa-share"></i> <span>Admin</span>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="@Url.Action("adminConfiguration", "Admin")"><i class="fa fa-share"></i> Configuration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("MacIDReg", "Admin")"><i class="fa fa-share"></i> Device Registration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("userRegistration", "Admin")"><i class="fa fa-share"></i> User Registration </a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("UserPlantMapping", "Admin")"><i class="fa fa-share"></i> User - Plant Mapping </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            }
+                            else if (@HttpContext.Current.Session["RoleId"].ToString() == null && @HttpContext.Current.Session["PlantId"].ToString() == null)
+                            {
+                                Session.Abandon();
+                                Response.Redirect("~/IdPInitiated/Initiate");
+                            }
+                        }
+                        else
+                        {
+                            Session.Abandon();
+                            Response.Redirect("~/IdPInitiated/Initiate");
+                        }
+                    }
+                    <li class="treeview" id="helpMenu">
+                        <a href="#">
+                            <i class="fa fa-share"></i> <span>User Manuals</span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="@Url.Action("DownloadGateway", "Admin")"><i class="fa fa-share"></i> Gateway Client Agent </a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("DownloadEMMSmannual", "Admin")"><i class="fa fa-share"></i> EMMS Configuration </a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("DownloadPowerBIMannual", "Admin")"><i class="fa fa-share"></i> KPI Dashboards </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="@Url.Action("Logout", "Auth")" onclick="clearSession()"><i class="fa fa-share"></i> Logout</a>
+                    </li>
+
+                </ul>
+
+            </section>
+        </aside>
+        <div class="content-wrapper">
+            <section class="content">
+                <div class="pull-left">
+                    @*@if (Session["RoleId"].ToString() == "2" && Session["PlantId"].ToString() != "0")
+                        {
+                            <span><b>Role:</b></span>
+                                <select id="roleSelect" onchange="toggleMenu()">
+                                    <option value="plant">Plant</option>
+                                    <option value="admin">Admin</option>
+                                </select>
+                        }*@
+                    <a target="_blank" href="https://app.powerbi.com"><p class="danger"><mark>Click Here For KPI Dashboards</mark></p></a>
+                </div>
+                <script>
+                    function blinker() {
+                        $('.danger').fadeOut(500);
+                        $('.danger').fadeIn(500);
+                    }
+                    setInterval(blinker, 1000);
+                    function toggleMenu() {
+                        var val = $('#roleSelect').val();
+                        if (val === "plant") {
+                            $('#adminConfigMenu').css({ 'display': 'none' });
+                            $('#HomeMenu').css({ 'display': 'block' });
+                            $('#configMenu').css({ 'display': 'block' });
+                            $('#actualMenu').css({ 'display': 'block' });
+                            $('#productionMenu').css({ 'display': 'block' });
+                        } else {
+                            $('#adminConfigMenu').css({ 'display': 'block' });
+                            $('#HomeMenu').css({ 'display': 'none' });
+                            $('#configMenu').css({ 'display': 'none' });
+                            $('#actualMenu').css({ 'display': 'none' });
+                            $('#productionMenu').css({ 'display': 'none' });
+                        }
+                    }
+                </script>
+                <div class="pull-right">
+                    <span class="logo-lg">
+                        @{
+                            if (@HttpContext.Current.Session["Username"].ToString() != null)
+                            {
+                                <b>@HttpContext.Current.Session["Username"].ToString() : @HttpContext.Current.Session["PlantName"].ToString()</b>
+                                if (@HttpContext.Current.Session["PlantName"].ToString() == "Select Plant")
+                                {
+                                    <b>@HttpContext.Current.Session["Username"].ToString() : Admin</b>
+                                }
+                            }
+                            else if (@HttpContext.Current.Session["Username"].ToString() == null)
+                            {
+                                Session.Abandon();
+                                Response.Redirect("~/IdPInitiated/InitiateLogin");
+                            }
+                        }
+                    </span>
+                </div> <br />
+                @RenderBody()
+            </section>
+        </div>
+        <footer class="main-footer">
+            <div class="pull-right hidden-xs">
+                <b>Version</b> @ConfigurationManager.AppSettings["webpages:Version"]
+            </div>
+            <div class="row">
+                <strong>&copy; 2017 <a href="http://www.kraftheinzcompany.com/">The KraftHeinz Company.</a> All rights reserved.</strong>
+                <b>Best viewed in IE-Edge, Firefox and Google Chrome</b>
+            </div>
+        </footer>
+
+        <div class="control-sidebar-bg"></div>
+    </div>
+
+    @RenderSection("menu", required: false)
+
+    <script src="~/Scripts/Shared/_Layout.js" type="text/javascript"></script>
+
+    <script src="~/AdminLTE/dist/js/app.js" type="text/javascript"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

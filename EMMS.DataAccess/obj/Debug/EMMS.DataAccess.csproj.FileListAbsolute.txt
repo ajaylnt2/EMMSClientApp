@@ -1,0 +1,91 @@
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\Application\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+\\MYTSP00301\shared\Vishwa\EMMS\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+C:\Users\20100218\Documents\Visual Studio 2015\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+D:\shared\Vishwa\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+D:\Kraft Hainz\KraftHienz\07202017\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.pdb
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+D:\Shabarish\Projects\EMMS\Working Folder\Source\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.pdb
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csproj.CoreCompileInputs.cache
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+E:\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DataAccess.Interface.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.DTO.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\bin\Debug\EMMS.Log.pdb
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.csproj.CoreCompileInputs.cache
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.dll
+E:\Total Stuff\14thSEP2017\MVC Manual Entry\EMMSClientApplication\EMMS.DataAccess\obj\Debug\EMMS.DataAccess.pdb
